@@ -1,10 +1,11 @@
 {
   "name": "@saramax1/createpackage",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "simple npm package for learning github package",
   "main": "index.js",
   "scripts": {
-    "test": "exit 0"
+    "test": "exit 0",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
