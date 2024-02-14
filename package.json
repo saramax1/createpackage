@@ -1,6 +1,6 @@
 {
   "name": "@saramax1/createpackage",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "simple npm package for learning github package",
   "main": "index.js",
   "scripts": {
